@@ -1,0 +1,5 @@
+portfolio_env
+*.db.sqlite3
+*.pyc
+*.DS_Store
+__pycache__
